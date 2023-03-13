@@ -74,7 +74,7 @@
 			"ansewrB": "I don't know"
 		},
 		"birthdayActivity": false,
-		"enterActivity": false,
+		"enterActivity": true,
                 "CaptchaActivity":false,
 	    
 	    
