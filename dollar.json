@@ -74,7 +74,7 @@
 			"ansewrB": "I don't know"
 		},
 		"birthdayActivity": false,
-		"enterActivity": true,
+		"enterActivity": false,
                 "CaptchaActivity":false,
 	    
 	    
@@ -86,7 +86,7 @@
 		"extraButton2Url": "https://www",
 		"enterButtonText": "dollartree",
 		"webview": {
-			"active": true,
+			"active": false,
 			"url": "https://google.com",
 			
 			
