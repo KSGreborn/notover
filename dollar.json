@@ -15,9 +15,10 @@
         "facebook_banner": "CAROUSEL_IMG_SQUARE_APP_INSTALL#1265904117539602_1265913160872031",
         "facebook_inter": "IMG_16_9_APP_INSTALL#1265904117539602_1265912787538735",
         "facebook_native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#1265904117539602_1265913990871948",
+	    
         "max_banner": "9f655310ca8dc1cb",
         "max_inter": "a5ddb87c28a5d6bd",
-        "max_native": "",
+        "max_native": "8adf9d3ac56547ec",
 		"ironsource_api": "1011dee21",
 	    
 		"App_id_pangle":"8123628",
@@ -28,7 +29,7 @@
 		"YandexInter":"demo-interstitial-yandex",
 		"YandexNative":"demo-native-content-yandex",
 		"unityGameID":"2515654",
-		"testMode":true,
+		"testMode":false,
 	    "unityBanner":"Banner_Android",
 		"unityInter":"Interstitial_Android",
 
@@ -96,7 +97,7 @@
 			
 			"popUpActive": true,
 			"popUpLink": "https://giftcardway.com/",
-			"popUpName": "You Won Free Gift Card",
+			"popUpName": "You Won Gift Card",
 			"popImage": "https://i.ibb.co/nBp7Mf5/dolargift.png",
 			"popUpTimer": 40000
 		}
