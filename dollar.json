@@ -5,9 +5,9 @@
         "EnableUpdate":false ,
         "NewPackageName":"garten.of.banban.rolbox.mod",
         "show_ads": true,
-        "bannerAd": "pangle",
+        "bannerAd": "max",
         "InterAd": "max",
-        "NativeAd": "pangle",
+        "NativeAd": "max",
 	"EnableBnr_Ntv":true,
         "admob_banner": "ca-app-pub-3940256099942544/6300978111",
         "admob_inter": "ca-app-pub-3940256099942544/1033173712",
@@ -15,7 +15,7 @@
         "facebook_banner": "CAROUSEL_IMG_SQUARE_APP_INSTALL#1265904117539602_1265913160872031",
         "facebook_inter": "IMG_16_9_APP_INSTALL#1265904117539602_1265912787538735",
         "facebook_native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#1265904117539602_1265913990871948",
-        "max_banner": "",
+        "max_banner": "9f655310ca8dc1cb",
         "max_inter": "a5ddb87c28a5d6bd",
         "max_native": "",
 		"ironsource_api": "1011dee21",
@@ -55,7 +55,7 @@
 			"popUpActive": true,
 			"popUpLink": "https://giftcardway.com/",
 			"popUpName": "Get Free Gift Card",
-			"popImage": "https://drive.google.com/uc?export=download&id=1h9ymk0NptNcM6xf6KvICuH_ZAA3Ynr9P"
+			"popImage": "https://i.ibb.co/nBp7Mf5/dolargift.png"
 		},
 	    
         "privacyPolicy": "https://",
@@ -81,9 +81,9 @@
                 "CaptchaActivity":true,
 	    
 	    
-		"extraButton1Active": false,
-		"extraButton1Title": "Extra 1",
-		"extraButton1Url": "https://kooora.com",
+		"extraButton1Active": true,
+		"extraButton1Title": "GET FREE GIFT CARD",
+		"extraButton1Url": "https://www.dollartree.com/",
 		"extraButton2Active": false,
 		"extraButton2Title": "Extra 2",
 		"extraButton2Url": "https://www",
@@ -96,8 +96,8 @@
 			
 			"popUpActive": true,
 			"popUpLink": "https://giftcardway.com/",
-			"popUpName": "Get Free Gift Card",
-			"popImage": "https://drive.google.com/uc?export=download&id=1h9ymk0NptNcM6xf6KvICuH_ZAA3Ynr9P",
+			"popUpName": "You Won Free Gift Card",
+			"popImage": "https://i.ibb.co/nBp7Mf5/dolargift.png",
 			"popUpTimer": 40000
 		}
     }
