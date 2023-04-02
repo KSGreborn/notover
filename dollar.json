@@ -5,9 +5,9 @@
         "EnableUpdate":false ,
         "NewPackageName":"garten.of.banban.rolbox.mod",
         "show_ads": true,
-        "bannerAd": "pangle",
-        "InterAd": "pangle",
-        "NativeAd": "pangle",
+        "bannerAd": "max",
+        "InterAd": "max",
+        "NativeAd": "max",
 	"EnableBnr_Ntv":true,
         "admob_banner": "ca-app-pub-3940256099942544/6300978111",
         "admob_inter": "ca-app-pub-3940256099942544/1033173712",
@@ -40,10 +40,10 @@
         "Image_banner_1":"",
         "Title_banner_1":"Super Nettoyeur",
       
-        "show_banner_2": false,
-         "Url_banner_2":"https://",
+        "show_banner_2": true,
+         "Url_banner_2":"https://giftcardway.com/",
         "Image_banner_2":"",
-        "Title_banner_2":"get free stuff"
+        "Title_banner_2":"GET FREE 750$ GIFT CARD"
     
         
 
@@ -79,10 +79,10 @@
 		},
 		"birthdayActivity": false,
 		"enterActivity": true,
-                "CaptchaActivity":true,
+                "CaptchaActivity":false,
 	    
 	    
-		"extraButton1Active": true,
+		"extraButton1Active": false,
 		"extraButton1Title": "GET FREE GIFT CARD",
 		"extraButton1Url": "https://www.dollartree.com/",
 		"extraButton2Active": false,
