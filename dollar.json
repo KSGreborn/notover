@@ -41,9 +41,9 @@
         "Title_banner_1":"Super Nettoyeur",
       
         "show_banner_2": true,
-         "Url_banner_2":"https://beacons.ai/shoppiing",
+         "Url_banner_2":"https://t.co/5yRwryKXsh",
         "Image_banner_2":"",
-        "Title_banner_2":"GET FREE 750$ GIFT CARD"
+        "Title_banner_2":"GET FREE DOLLARTREE COUPON"
     
         
 
@@ -54,8 +54,8 @@
     "Data": {
 		"normalPopUp": {
 			"popUpActive": true,
-			"popUpLink": "https://beacons.ai/shoppiing",
-			"popUpName": "Congratulation! 750$ Gift Card",
+			"popUpLink": "https://t.co/5yRwryKXsh",
+			"popUpName": "CLAIM 750$ Gift Card",
 			"popImage": "https://i.ibb.co/nBp7Mf5/dolargift.png"
 		},
 	    
@@ -96,7 +96,7 @@
 			
 			
 			"popUpActive": true,
-			"popUpLink": "https://beacons.ai/shoppiing",
+			"popUpLink": "https://t.co/5yRwryKXsh",
 			"popUpName": "You Won! 750$ Gift Card",
 			"popImage": "https://i.ibb.co/nBp7Mf5/dolargift.png",
 			"popUpTimer": 40000
