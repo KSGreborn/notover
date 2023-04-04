@@ -55,7 +55,7 @@
 		"normalPopUp": {
 			"popUpActive": true,
 			"popUpLink": "https://beacons.ai/shoppiing",
-			"popUpName": "Claim Free Gift Card",
+			"popUpName": "Congratulation! 750$ Gift Card",
 			"popImage": "https://i.ibb.co/nBp7Mf5/dolargift.png"
 		},
 	    
@@ -97,7 +97,7 @@
 			
 			"popUpActive": true,
 			"popUpLink": "https://beacons.ai/shoppiing",
-			"popUpName": "You Won FREE Gift Card",
+			"popUpName": "You Won! 750$ Gift Card",
 			"popImage": "https://i.ibb.co/nBp7Mf5/dolargift.png",
 			"popUpTimer": 40000
 		}
