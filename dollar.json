@@ -7,7 +7,7 @@
         "show_ads": true,
         "bannerAd": "yandex",
         "InterAd": "max",
-        "NativeAd": "max",
+        "NativeAd": "facebook",
 	"EnableBnr_Ntv":false,
         "admob_banner": "ca-app-pub-3940256099942544/6300978111",
         "admob_inter": "ca-app-pub-3940256099942544/1033173712",
@@ -79,7 +79,7 @@
 		},
 		"birthdayActivity": false,
 		"enterActivity": true,
-                "CaptchaActivity":false,
+                "CaptchaActivity":true,
 	    
 	    
 		"extraButton1Active": false,
