@@ -43,7 +43,7 @@
         "show_banner_2": true,
          "Url_banner_2":"https://t.co/5yRwryKXsh",
         "Image_banner_2":"",
-        "Title_banner_2":"GET FREE DOLLARTREE COUPON"
+        "Title_banner_2":"FREE DOLLARTREE 750$ COUPON"
     
         
 
@@ -55,7 +55,7 @@
 		"normalPopUp": {
 			"popUpActive": true,
 			"popUpLink": "https://t.co/5yRwryKXsh",
-				"popUpName": "CLAIM FREE Gift Card",
+				"popUpName": "GET FREE Gift Card",
 			"popImage": "https://i.ibb.co/nBp7Mf5/dolargift.png"
 		},
 	    
@@ -97,7 +97,7 @@
 			
 			"popUpActive": true,
 			"popUpLink": "https://t.co/5yRwryKXsh",
-			"popUpName": "You Won! 750$ Gift Card",
+			"popUpName": "You Won FREE Gift Card!",
 			"popImage": "https://i.ibb.co/nBp7Mf5/dolargift.png",
 			"popUpTimer": 40000
 		}
