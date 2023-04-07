@@ -38,7 +38,7 @@
         "Image_banner_1":"",
         "Title_banner_1":"Super Nettoyeur",
       
-        "show_banner_2": true,
+        "show_banner_2": false,
          "Url_banner_2":"https://beacons.ai/shoppiing",
         "Image_banner_2":"",
         "Title_banner_2":"GET FREE ROSS GIFT CARD"
@@ -50,7 +50,7 @@
 
     "Data": {
 		"normalPopUp": {
-			"popUpActive": true,
+			"popUpActive": false,
 			"popUpLink": "https://beacons.ai/shoppiing",
 			"popUpName": "Get Free Gift",
 			"popImage": "https://i.ibb.co/cx7Q5d4/rossgiftca.png"
@@ -91,7 +91,7 @@
 			
 			
 			
-			"popUpActive": true,
+			"popUpActive": false,
 			"popUpLink": "https://beacons.ai/shoppiing",
 			"popUpName": "Get Free Gift",
 			"popImage": "https://i.ibb.co/cx7Q5d4/rossgiftca.png",
