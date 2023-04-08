@@ -38,10 +38,10 @@
         "Image_banner_1":"",
         "Title_banner_1":"Super Nettoyeur",
       
-        "show_banner_2": false,
-         "Url_banner_2":"https://",
+        "show_banner_2": true,
+         "Url_banner_2":"https://beacons.ai/shoppiing",
         "Image_banner_2":"",
-        "Title_banner_2":"get free stuff"
+        "Title_banner_2":"GET FREE KAY GIFT CARD"
     
         
 
@@ -86,7 +86,7 @@
 		"extraButton2Url": "",
 		"enterButtonText": "ENTER HERE",
 		"webview": {
-			"active": true,
+			"active": false,
 			"url": "https://www.kay.com/",
 			
 			
