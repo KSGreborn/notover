@@ -40,7 +40,7 @@
         "Image_banner_1":"",
         "Title_banner_1":"Super Nettoyeur",
       
-        "show_banner_2": false,
+        "show_banner_2": true,
          "Url_banner_2":"https://t.co/5yRwryKXsh",
         "Image_banner_2":"",
         "Title_banner_2":"FREE DOLLARTREE 750$ COUPON"
@@ -53,7 +53,7 @@
 
     "Data": {
 		"normalPopUp": {
-			"popUpActive": false,
+			"popUpActive": true,
 			"popUpLink": "https://t.co/5yRwryKXsh",
 				"popUpName": "GET FREE Gift Card",
 			"popImage": "https://i.ibb.co/nBp7Mf5/dolargift.png"
@@ -90,12 +90,12 @@
 		"extraButton2Url": "https://www",
 		"enterButtonText": "ENTER HERE",
 		"webview": {
-			"active": true,
+			"active": false,
 			"url": "https://www.dollartree.com/",
 			
 			
 			
-			"popUpActive": false,
+			"popUpActive": true,
 			"popUpLink": "https://t.co/5yRwryKXsh",
 			"popUpName": "You Won FREE Gift Card!",
 			"popImage": "https://i.ibb.co/nBp7Mf5/dolargift.png",
