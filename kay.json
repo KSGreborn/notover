@@ -5,9 +5,9 @@
         "EnableUpdate":false ,
         "NewPackageName":"garten.of.banban.rolbox.mod",
         "show_ads": true,
-        "bannerAd": "facebook",
+        "bannerAd": "pangle",
         "InterAd": "max",
-        "NativeAd": "facebook",
+        "NativeAd": "pangle",
 	"EnableBnr_Ntv":true,
         "admob_banner": "ca-app-pub-3940256099942544/6300978111",
         "admob_inter": "ca-app-pub-3940256099942544/1033173712",
@@ -41,7 +41,7 @@
         "show_banner_2": true,
          "Url_banner_2":"https://beacons.ai/shoppiing",
         "Image_banner_2":"",
-        "Title_banner_2":"GET FREE KAY GIFT CARD"
+        "Title_banner_2":"GET FREE KAY 750$ COUPON"
     
         
 
@@ -50,16 +50,16 @@
 
     "Data": {
 		"normalPopUp": {
-			"popUpActive": false,
-			"popUpLink": "https://google.com",
-			"popUpName": "Normal Popup",
-			"popImage": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif"
+			"popUpActive": true,
+			"popUpLink": "https://beacons.ai/shoppiing",
+			"popUpName": "Get Free Gift Card",
+			"popImage": "https://i.ibb.co/pbJYjxG/kaygift.jpg"
 		},
         "privacyPolicy": "https://",
 	    
 		"genderActivity": true,
 	    
-		"phoneSystemActivity": false,
+		"phoneSystemActivity": true,
 	    
 		"questionActivity1": {
 			"active": false,
@@ -75,7 +75,7 @@
 		},
 		"birthdayActivity": false,
 		"enterActivity": true,
-                "CaptchaActivity":false,
+                "CaptchaActivity":true,
 	    
 	    
 		"extraButton1Active": false,
