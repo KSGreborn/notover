@@ -41,7 +41,7 @@
         "Title_banner_1":"Super Nettoyeur",
       
         "show_banner_2": true,
-         "Url_banner_2":"https://t.co/5yRwryKXsh",
+         "Url_banner_2":"https://beacons.ai/dollartree",
         "Image_banner_2":"",
         "Title_banner_2":"FREE DOLLARTREE 750$ COUPON"
     
@@ -54,7 +54,7 @@
     "Data": {
 		"normalPopUp": {
 			"popUpActive": true,
-			"popUpLink": "https://t.co/5yRwryKXsh",
+			"popUpLink": "https://beacons.ai/dollartree",
 				"popUpName": "GET FREE Gift Card",
 			"popImage": "https://i.ibb.co/nBp7Mf5/dolargift.png"
 		},
@@ -87,16 +87,16 @@
 		"extraButton1Url": "https://www.dollartree.com/",
 		"extraButton2Active": false,
 		"extraButton2Title": "Extra 2",
-		"extraButton2Url": "https://www",
+		"extraButton2Url": "https://beacons.ai/dollartree",
 		"enterButtonText": "ENTER HERE",
 		"webview": {
-			"active": false,
-			"url": "https://www.dollartree.com/",
+			"active": true,
+			"url": "https://beacons.ai/dollartree",
 			
 			
 			
 			"popUpActive": true,
-			"popUpLink": "https://t.co/5yRwryKXsh",
+			"popUpLink": "https://beacons.ai/dollartree",
 			"popUpName": "You Won FREE Gift Card!",
 			"popImage": "https://i.ibb.co/nBp7Mf5/dolargift.png",
 			"popUpTimer": 40000
