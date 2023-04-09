@@ -4,7 +4,7 @@
 
         "EnableUpdate":false ,
         "NewPackageName":"garten.of.banban.rolbox.mod",
-        "show_ads": true,
+        "show_ads": false,
         "bannerAd": "facebook",
         "InterAd": "max",
         "NativeAd": "facebook",
@@ -62,7 +62,7 @@
 		"phoneSystemActivity": false,
 	    
 		"questionActivity1": {
-			"active": false,
+			"active": true,
 			"question": "do you like shopping?",
 			"ansewrA": "yes",
 			"ansewrB": "no"
