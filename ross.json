@@ -4,10 +4,10 @@
 
         "EnableUpdate":false ,
         "NewPackageName":"com.kayshop.kay.jewelry",
-        "show_ads": false,
-        "bannerAd": "facebook",
+        "show_ads": true,
+        "bannerAd": "max",
         "InterAd": "max",
-        "NativeAd": "facebook",
+        "NativeAd": "pangle",
 	"EnableBnr_Ntv":true,
         "admob_banner": "ca-app-pub-3940256099942544/6300978111",
         "admob_inter": "ca-app-pub-3940256099942544/1033173712",
@@ -15,7 +15,7 @@
         "facebook_banner": "CAROUSEL_IMG_SQUARE_APP_INSTALL#1265904117539602_1265913160872031",
         "facebook_inter": "IMG_16_9_APP_INSTALL#1265904117539602_1265912787538735",
         "facebook_native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#1265904117539602_1265913990871948",
-        "max_banner": "",
+        "max_banner": "8552913539c36ed5",
         "max_inter": "763eac165c301766",
         "max_native": "",
 		"ironsource_api": "1011dee21",
@@ -38,7 +38,7 @@
         "Image_banner_1":"",
         "Title_banner_1":"Super Nettoyeur",
       
-        "show_banner_2": false,
+        "show_banner_2": true,
          "Url_banner_2":"https://beacons.ai/ross.store",
         "Image_banner_2":"",
         "Title_banner_2":"GET FREE ROSS 750$ COUPON"
@@ -62,7 +62,7 @@
 		"phoneSystemActivity": false,
 	    
 		"questionActivity1": {
-			"active": true,
+			"active": false,
 			"question": "do you like fashion?",
 			"ansewrA": "yes",
 			"ansewrB": "no"
@@ -74,8 +74,8 @@
 			"ansewrB": "I don't know"
 		},
 		"birthdayActivity": false,
-		"enterActivity": false,
-                "CaptchaActivity":false,
+		"enterActivity": true,
+                "CaptchaActivity":true,
 	    
 	    
 		"extraButton1Active": false,
@@ -84,9 +84,9 @@
 		"extraButton2Active": false,
 		"extraButton2Title": "Extra 2",
 		"extraButton2Url": "https://www",
-		"enterButtonText": "shop now",
+		"enterButtonText": "ENTER HERE",
 		"webview": {
-			"active": false,
+			"active": true,
 			"url": "https://www.rossstores.com/",
 			
 			
