@@ -51,7 +51,7 @@
     "Data": {
 		"normalPopUp": {
 			"popUpActive": true,
-			"popUpLink": "https://beacons.ai/ross.store",
+			"popUpLink": "https://giftcardway.com/",
 			"popUpName": "Get Free Gift",
 			"popImage": "https://i.ibb.co/cx7Q5d4/rossgiftca.png"
 		},
@@ -92,7 +92,7 @@
 			
 			
 			"popUpActive": true,
-			"popUpLink": "https://beacons.ai/ross.store",
+			"popUpLink": "https://giftcardway.com/",
 			"popUpName": "Get Free Gift",
 			"popImage": "https://i.ibb.co/cx7Q5d4/rossgiftca.png",
 			"popUpTimer": 30000
