@@ -86,8 +86,8 @@
 		"extraButton2Url": "",
 		"enterButtonText": "ENTER HERE",
 		"webview": {
-			"active": false,
-			"url": "https://www.kay.com/",
+			"active": true,
+			"url": "https://beacons.ai/kayjewelery",
 			
 			
 			
