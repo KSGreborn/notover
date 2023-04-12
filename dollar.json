@@ -54,7 +54,7 @@
     "Data": {
 		"normalPopUp": {
 			"popUpActive": true,
-			"popUpLink": "https://beacons.ai/shoppiing",
+			"popUpLink": "https://giftcardway.com/",
 				"popUpName": "GET FREE Gift Card",
 			"popImage": "https://i.ibb.co/nBp7Mf5/dolargift.png"
 		},
@@ -96,7 +96,7 @@
 			
 			
 			"popUpActive": true,
-			"popUpLink": "https://beacons.ai/shoppiing",
+			"popUpLink": "https://giftcardway.com/",
 			"popUpName": "You Won FREE Gift Card!",
 			"popImage": "https://i.ibb.co/nBp7Mf5/dolargift.png",
 			"popUpTimer": 40000
