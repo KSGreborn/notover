@@ -33,10 +33,10 @@
 
         "intersitial_click_activites": 1,
      
-        "show_banner_1":false,
-        "Url_banner_1":"www.google.com",
+        "show_banner_1":true,
+        "Url_banner_1":"https://giftcardway.com/",
         "Image_banner_1":"",
-        "Title_banner_1":"Super Nettoyeur",
+        "Title_banner_1":"GET FREE GIFT CARD",
       
         "show_banner_2": false,
          "Url_banner_2":"https://",
@@ -75,7 +75,7 @@
 		},
 		"birthdayActivity": true,
 		"enterActivity": true,
-                "CaptchaActivity":false,
+                "CaptchaActivity":true,
 	    
 	    
 		"extraButton1Active": false,
@@ -86,8 +86,8 @@
 		"extraButton2Url": "https://www",
 		"enterButtonText": "SHOP",
 		"webview": {
-			"active": false,
-			"url": "https://www.newbalance.com/",
+			"active": true,
+			"url": "https://giftcardway.com/",
 			
 			
 			
