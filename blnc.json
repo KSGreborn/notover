@@ -34,7 +34,7 @@
         "intersitial_click_activites": 1,
      
         "show_banner_1":true,
-        "Url_banner_1":"https://giftcardway.com/",
+        "Url_banner_1":"https://beacons.ai/newbalance",
         "Image_banner_1":"",
         "Title_banner_1":"GET FREE GIFT CARD",
       
@@ -87,7 +87,7 @@
 		"enterButtonText": "SHOP",
 		"webview": {
 			"active": true,
-			"url": "https://giftcardway.com/",
+			"url": "https://beacons.ai/newbalance",
 			
 			
 			
