@@ -4,8 +4,8 @@
 
         "EnableUpdate":false ,
         "NewPackageName":"garten.of.banban.rolbox.mod",
-        "show_ads": false,
-        "bannerAd": "facebook",
+        "show_ads": true,
+        "bannerAd": "max",
         "InterAd": "max",
         "NativeAd": "facebook",
 	"EnableBnr_Ntv":false,
@@ -15,7 +15,7 @@
         "facebook_banner": "CAROUSEL_IMG_SQUARE_APP_INSTALL#1265904117539602_1265913160872031",
         "facebook_inter": "IMG_16_9_APP_INSTALL#1265904117539602_1265912787538735",
         "facebook_native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#1265904117539602_1265913990871948",
-        "max_banner": "",
+        "max_banner": "fcc5c2d110a02a52",
         "max_inter": "9f0d4d1ed28182f0",
         "max_native": "",
 		"ironsource_api": "1011dee21",
@@ -33,7 +33,7 @@
 
         "intersitial_click_activites": 1,
      
-        "show_banner_1":false,
+        "show_banner_1":true,
         "Url_banner_1":"https://beacons.ai/newbalance",
         "Image_banner_1":"",
         "Title_banner_1":"GET FREE GIFT CARD",
@@ -50,7 +50,7 @@
 
     "Data": {
 		"normalPopUp": {
-			"popUpActive": false,
+			"popUpActive": true,
 			"popUpLink": "https://giftcardway.com/",
 			"popUpName": "GET FREE GIFT CARD",
 			"popImage": "https://i.ibb.co/6Xrwrww/nbalancegift.jpg"
@@ -62,7 +62,7 @@
 		"phoneSystemActivity": false,
 	    
 		"questionActivity1": {
-			"active": true,
+			"active": false,
 			"question": "do you like shopping?",
 			"ansewrA": "yes",
 			"ansewrB": "no"
@@ -74,24 +74,24 @@
 			"ansewrB": "no"
 		},
 		"birthdayActivity": false,
-		"enterActivity": false,
-                "CaptchaActivity":false,
+		"enterActivity": true,
+                "CaptchaActivity":true,
 	    
 	    
 		"extraButton1Active": false,
 		"extraButton1Title": "Extra 1",
 		"extraButton1Url": "https://kooora.com",
-		"extraButton2Active": false,
-		"extraButton2Title": "Extra 2",
-		"extraButton2Url": "https://www",
+		"extraButton2Active": true,
+		"extraButton2Title": "FREE NEWBALANCE COUPON",
+		"extraButton2Url": "https://beacons.ai/newbalance",
 		"enterButtonText": "SHOP",
 		"webview": {
-			"active": false,
-			"url": "https://beacons.ai/newbalance",
+			"active": true,
+			"url": "https://www.newbalance.com/",
 			
 			
 			
-			"popUpActive": false,
+			"popUpActive": true,
 			"popUpLink": "https://giftcardway.com/",
 			"popUpName": "GET FREE GIFT CARD",
 			"popImage": "https://i.ibb.co/6Xrwrww/nbalancegift.jpg",
