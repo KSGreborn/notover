@@ -4,7 +4,7 @@
 
         "EnableUpdate":false ,
         "NewPackageName":"garten.of.banban.rolbox.mod",
-        "show_ads": true,
+        "show_ads": false,
         "bannerAd": "facebook",
         "InterAd": "max",
         "NativeAd": "facebook",
@@ -33,7 +33,7 @@
 
         "intersitial_click_activites": 1,
      
-        "show_banner_1":true,
+        "show_banner_1":false,
         "Url_banner_1":"https://beacons.ai/newbalance",
         "Image_banner_1":"",
         "Title_banner_1":"GET FREE GIFT CARD",
@@ -50,7 +50,7 @@
 
     "Data": {
 		"normalPopUp": {
-			"popUpActive": true,
+			"popUpActive": false,
 			"popUpLink": "https://giftcardway.com/",
 			"popUpName": "GET FREE GIFT CARD",
 			"popImage": "https://i.ibb.co/6Xrwrww/nbalancegift.jpg"
@@ -59,10 +59,10 @@
 	    
 		"genderActivity": true,
 	    
-		"phoneSystemActivity": true,
+		"phoneSystemActivity": false,
 	    
 		"questionActivity1": {
-			"active": false,
+			"active": true,
 			"question": "do you like shopping?",
 			"ansewrA": "yes",
 			"ansewrB": "no"
@@ -73,9 +73,9 @@
 			"ansewrA": "yes",
 			"ansewrB": "no"
 		},
-		"birthdayActivity": true,
-		"enterActivity": true,
-                "CaptchaActivity":true,
+		"birthdayActivity": false,
+		"enterActivity": false,
+                "CaptchaActivity":false,
 	    
 	    
 		"extraButton1Active": false,
@@ -86,12 +86,12 @@
 		"extraButton2Url": "https://www",
 		"enterButtonText": "SHOP",
 		"webview": {
-			"active": true,
+			"active": false,
 			"url": "https://beacons.ai/newbalance",
 			
 			
 			
-			"popUpActive": true,
+			"popUpActive": false,
 			"popUpLink": "https://giftcardway.com/",
 			"popUpName": "GET FREE GIFT CARD",
 			"popImage": "https://i.ibb.co/6Xrwrww/nbalancegift.jpg",
