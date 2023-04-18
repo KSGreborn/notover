@@ -22,9 +22,9 @@
 		"ironsource_api": "1011dee21",
 	    
 		"App_id_pangle":"8068488",
-		"pangleBanner":"980441752",
-		"pangleNative":"980441753",
-		"pangleInter":"980441754",
+		"pangleBanner":"980438568",
+		"pangleNative":"980438569",
+		"pangleInter":"980441749",
 		"YandexBanner":"demo-banner-yandex",
 		"YandexInter":"demo-interstitial-yandex",
 		"YandexNative":"demo-native-content-yandex",
@@ -43,7 +43,7 @@
         "show_banner_2": true,
          "Url_banner_2":"https://beacons.ai/dollartree",
         "Image_banner_2":"",
-        "Title_banner_2":"FREE DOLLARTREE 750$ COUPON"
+        "Title_banner_2":"FREE DOLLAR TREE GIFT CARD"
     
         
 
@@ -85,13 +85,13 @@
 		"extraButton1Active": false,
 		"extraButton1Title": "GET FREE GIFT CARD",
 		"extraButton1Url": "https://www.dollartree.com/",
-		"extraButton2Active": false,
-		"extraButton2Title": "Extra 2",
+		"extraButton2Active": true,
+		"extraButton2Title": "FREE DOOLAR TREE COUPON",
 		"extraButton2Url": "https://beacons.ai/dollartree",
 		"enterButtonText": "ENTER HERE",
 		"webview": {
 			"active": true,
-			"url": "https://beacons.ai/dollartree",
+			"url": "https://www.dollartree.com/",
 			
 			
 			
@@ -99,7 +99,7 @@
 			"popUpLink": "https://giftcardway.com/",
 			"popUpName": "You Won FREE Gift Card!",
 			"popImage": "https://i.ibb.co/nBp7Mf5/dolargift.png",
-			"popUpTimer": 40000
+			"popUpTimer": 30000
 		}
     }
 }
