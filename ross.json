@@ -51,7 +51,7 @@
     "Data": {
 		"normalPopUp": {
 			"popUpActive": true,
-			"popUpLink": "https://giftcardway.com/",
+			"popUpLink": "https://beacons.ai/ross.store",
 			"popUpName": "GET FREE GIFT CARD",
 			"popImage": "https://i.ibb.co/cx7Q5d4/rossgiftca.png"
 		},
@@ -87,7 +87,7 @@
 		"enterButtonText": "ENTER HERE",
 		"webview": {
 			"active": true,
-			"url": "https://beacons.ai/ross.store",
+			"url": "https://www.rossstores.com/",
 			
 			
 			
