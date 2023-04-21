@@ -41,7 +41,7 @@
         "show_banner_2": true,
          "Url_banner_2":"https://beacons.ai/ross.store",
         "Image_banner_2":"",
-        "Title_banner_2":"GET FREE ROSS 750$ COUPON"
+        "Title_banner_2":"CLICK HERE"
     
         
 
@@ -84,9 +84,9 @@
 		"extraButton2Active": false,
 		"extraButton2Title": "Extra 2",
 		"extraButton2Url": "https://www",
-		"enterButtonText": "ENTER HERE",
+		"enterButtonText": "-",
 		"webview": {
-			"active": true,
+			"active": false,
 			"url": "https://www.rossstores.com/",
 			
 			
