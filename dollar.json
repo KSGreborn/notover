@@ -43,7 +43,7 @@
         "show_banner_2": true,
          "Url_banner_2":"https://beacons.ai/dollartree",
         "Image_banner_2":"",
-        "Title_banner_2":"FREE DOLLAR TREE GIFT CARD"
+        "Title_banner_2":"FREE DOLLARTREE GIFT CARD"
     
         
 
@@ -85,12 +85,12 @@
 		"extraButton1Active": false,
 		"extraButton1Title": "GET FREE GIFT CARD",
 		"extraButton1Url": "https://www.dollartree.com/",
-		"extraButton2Active": true,
+		"extraButton2Active": false,
 		"extraButton2Title": "FREE DOOLAR TREE COUPON",
 		"extraButton2Url": "https://beacons.ai/dollartree",
-		"enterButtonText": "ENTER HERE",
+		"enterButtonText": "-",
 		"webview": {
-			"active": true,
+			"active": false,
 			"url": "https://www.dollartree.com/",
 			
 			
