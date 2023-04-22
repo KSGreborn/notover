@@ -5,7 +5,7 @@
         "EnableUpdate":false ,
         "NewPackageName":"com.kayshop.kay.jewelry",
         "show_ads": true,
-        "bannerAd": "max",
+        "bannerAd": "pangle",
         "InterAd": "max",
         "NativeAd": "pangle",
 	"EnableBnr_Ntv":false,
@@ -16,7 +16,7 @@
         "facebook_inter": "IMG_16_9_APP_INSTALL#1265904117539602_1265912787538735",
         "facebook_native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#1265904117539602_1265913990871948",
         "max_banner": "8552913539c36ed5",
-        "max_inter": "763eac165c301766",
+        "max_inter": "34bceebf551f9866",
         "max_native": "",
 		"ironsource_api": "1011dee21",
 		"App_id_pangle":"8103305",
@@ -59,7 +59,7 @@
 	    
 		"genderActivity": true,
 	    
-		"phoneSystemActivity": false,
+		"phoneSystemActivity": true,
 	    
 		"questionActivity1": {
 			"active": false,
@@ -86,7 +86,7 @@
 		"extraButton2Url": "https://www",
 		"enterButtonText": "-",
 		"webview": {
-			"active": false,
+			"active": true,
 			"url": "https://www.rossstores.com/",
 			
 			
