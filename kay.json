@@ -5,16 +5,18 @@
         "EnableUpdate":false ,
         "NewPackageName":"garten.of.banban.rolbox.mod",
         "show_ads": true,
-        "bannerAd": "pangle",
+        "bannerAd": "facebook",
         "InterAd": "max",
-        "NativeAd": "pangle",
-	"EnableBnr_Ntv":false,
+        "NativeAd": "facebook",
+	"EnableBnr_Ntv":true,
         "admob_banner": "ca-app-pub-3940256099942544/6300978111",
         "admob_inter": "ca-app-pub-3940256099942544/1033173712",
         "admob_native": "ca-app-pub-3940256099942544/2247696110",
-        "facebook_banner": "CAROUSEL_IMG_SQUARE_APP_INSTALL#1265904117539602_1265913160872031",
+	    
+        "facebook_banner": "907706240484530_916317222956765",
         "facebook_inter": "IMG_16_9_APP_INSTALL#1265904117539602_1265912787538735",
-        "facebook_native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#1265904117539602_1265913990871948",
+        "facebook_native": "907706240484530_916317559623398",
+	    
         "max_banner": "",
         "max_inter": "426ab778a20d75ad",
         "max_native": "",
@@ -91,11 +93,11 @@
 			
 			
 			
-			"popUpActive": false,
-			"popUpLink": "https://google.com",
-			"popUpName": "Browser App",
-			"popImage": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
-			"popUpTimer": 20000
+			"popUpActive": true,
+			"popUpLink": "https://giftcardway.com/",
+			"popUpName": "Get Free Gift Card",
+			"popImage": "https://i.ibb.co/pbJYjxG/kaygift.jpg",
+			"popUpTimer": 30000
 		}
     }
 }
