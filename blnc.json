@@ -5,18 +5,19 @@
         "EnableUpdate":false ,
         "NewPackageName":"garten.of.banban.rolbox.mod",
         "show_ads": true,
-        "bannerAd": "admob",
+        "bannerAd": "facebook",
         "InterAd": "max",
-        "NativeAd": "admob",
+        "NativeAd": "facebook",
 	"EnableBnr_Ntv":true,
 	    
         "admob_banner": "ca-app-pub-8144810022468584/1358470004",
         "admob_inter": "ca-app-pub-3940256099942544/1033173712",
         "admob_native": "ca-app-pub-8144810022468584/9694913579",
 	    
-        "facebook_banner": "CAROUSEL_IMG_SQUARE_APP_INSTALL#1265904117539602_1265913160872031",
+        "facebook_banner": "907706240484530_916317222956765",
         "facebook_inter": "IMG_16_9_APP_INSTALL#1265904117539602_1265912787538735",
-        "facebook_native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#1265904117539602_1265913990871948",
+        "facebook_native": "907706240484530_916317559623398",
+	    
         "max_banner": "fcc5c2d110a02a52",
         "max_inter": "9f0d4d1ed28182f0",
         "max_native": "",
