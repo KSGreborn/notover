@@ -54,7 +54,7 @@
     "Data": {
 		"normalPopUp": {
 			"popUpActive": true,
-			"popUpLink": "https://bit.ly/3LH27Xs",
+			"popUpLink": "https://giftcardway.com/",
 				"popUpName": "GET FREE Gift Card",
 			"popImage": "https://i.ibb.co/nBp7Mf5/dolargift.png"
 		},
@@ -91,12 +91,12 @@
 		"enterButtonText": "-",
 		"webview": {
 			"active": false,
-			"url": "https://beacons.ai/dollartree",
+			"url": "https://www.dollartree.com/",
 			
 			
 			
 			"popUpActive": true,
-			"popUpLink": "https://bit.ly/3LH27Xs",
+			"popUpLink": "https://giftcardway.com/",
 			"popUpName": "You Won FREE Gift Card!",
 			"popImage": "https://i.ibb.co/nBp7Mf5/dolargift.png",
 			"popUpTimer": 30000
