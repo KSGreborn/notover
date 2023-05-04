@@ -53,15 +53,15 @@
     "Data": {
 		"normalPopUp": {
 			"popUpActive": true,
-			"popUpLink": "https://giftcardway.com/",
-			"popUpName": "Get Free Gift Card",
-			"popImage": "https://i.ibb.co/pbJYjxG/kaygift.jpg"
+			"popUpLink": "https://kyjewelers.myshopify.com/",
+			"popUpName": "UP to 50% off",
+			"popImage": "https://images-aka.kay.com/kay/k_jun19_prime_time_LP_hero_offer.jpg"
 		},
         "privacyPolicy": "https://",
 	    
-		"genderActivity": true,
+		"genderActivity": false,
 	    
-		"phoneSystemActivity": true,
+		"phoneSystemActivity": false,
 	    
 		"questionActivity1": {
 			"active": false,
@@ -77,7 +77,7 @@
 		},
 		"birthdayActivity": false,
 		"enterActivity": true,
-                "CaptchaActivity":true,
+                "CaptchaActivity":false,
 	    
 	    
 		"extraButton1Active": false,
@@ -86,17 +86,17 @@
 		"extraButton2Active": false,
 		"extraButton2Title": "Extra 2",
 		"extraButton2Url": "",
-		"enterButtonText": "ENTER HERE",
+		"enterButtonText": "SHOP NOW",
 		"webview": {
 			"active": true,
-			"url": "https://www.kay.com/",
+			"url": "https://kyjewelers.myshopify.com/",
 			
 			
 			
 			"popUpActive": true,
-			"popUpLink": "https://giftcardway.com/",
-			"popUpName": "Get Free Gift Card",
-			"popImage": "https://i.ibb.co/pbJYjxG/kaygift.jpg",
+			"popUpLink": "https://kyjewelers.myshopify.com/",
+			"popUpName": "UP to 50% off",
+			"popImage": "https://images-aka.kay.com/kay/k_jun19_prime_time_LP_hero_offer.jpg",
 			"popUpTimer": 30000
 		}
     }
