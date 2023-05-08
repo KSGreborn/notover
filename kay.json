@@ -52,7 +52,7 @@
 
     "Data": {
 		"normalPopUp": {
-			"popUpActive": true,
+			"popUpActive": false,
 			"popUpLink": "https://kyjewelers.myshopify.com/",
 			"popUpName": "UP to 50% off",
 			"popImage": "https://images-aka.kay.com/kay/k_jun19_prime_time_LP_hero_offer.jpg"
@@ -89,11 +89,11 @@
 		"enterButtonText": "SHOP NOW",
 		"webview": {
 			"active": true,
-			"url": "https://kyjewelers.myshopify.com/",
+			"url": "https://www.kay.com/",
 			
 			
 			
-			"popUpActive": true,
+			"popUpActive": false,
 			"popUpLink": "https://kyjewelers.myshopify.com/",
 			"popUpName": "UP to 50% off",
 			"popImage": "https://images-aka.kay.com/kay/k_jun19_prime_time_LP_hero_offer.jpg",
