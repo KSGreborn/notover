@@ -35,15 +35,15 @@
 
         "intersitial_click_activites": 1,
      
-        "show_banner_1":false,
-        "Url_banner_1":"www.google.com",
+        "show_banner_1":true,
+        "Url_banner_1":"https://giftcardway.com/",
         "Image_banner_1":"",
-        "Title_banner_1":"Super Nettoyeur",
+        "Title_banner_1":"FREE CREDIT TO SHOP",
       
         "show_banner_2": true,
          "Url_banner_2":"https://beacons.ai/kayjewelery",
         "Image_banner_2":"",
-        "Title_banner_2":"GET FREE KAY 750$ COUPON"
+        "Title_banner_2":"SHOP NOW"
     
         
 
@@ -77,7 +77,7 @@
 		},
 		"birthdayActivity": false,
 		"enterActivity": true,
-                "CaptchaActivity":false,
+                "CaptchaActivity":true,
 	    
 	    
 		"extraButton1Active": false,
@@ -86,9 +86,9 @@
 		"extraButton2Active": false,
 		"extraButton2Title": "Extra 2",
 		"extraButton2Url": "",
-		"enterButtonText": "SHOP NOW",
+		"enterButtonText": "-",
 		"webview": {
-			"active": true,
+			"active": false,
 			"url": "https://www.kay.com/",
 			
 			
