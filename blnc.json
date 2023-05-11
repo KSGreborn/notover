@@ -37,15 +37,14 @@
         "intersitial_click_activites": 1,
      
         "show_banner_1":true,
-        "Url_banner_1":"https://beacons.ai/newbalance",
+        "Url_banner_1":"https://giftcardway.com/",
         "Image_banner_1":"",
-        "Title_banner_1":"FREE NEWBALANCE GIFT CARD",
+        "Title_banner_1":"FREE CREDIT TO SHOP",
       
-        "show_banner_2": false,
-         "Url_banner_2":"https://",
+        "show_banner_2": true,
+         "Url_banner_2":"https://beacons.ai/newbalance",
         "Image_banner_2":"",
-        "Title_banner_2":"get free stuff"
-    
+        "Title_banner_2":"SHOP NOW"
         
 
 
@@ -87,9 +86,9 @@
 		"extraButton2Active": false,
 		"extraButton2Title": "FREE NEWBALANCE COUPON",
 		"extraButton2Url": "https://beacons.ai/newbalance",
-		"enterButtonText": "SHOP NOW",
+		"enterButtonText": "-",
 		"webview": {
-			"active": true,
+			"active": false,
 			"url": "https://www.newbalance.com/",
 			
 			
