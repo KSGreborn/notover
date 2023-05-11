@@ -35,15 +35,15 @@
 
         "intersitial_click_activites": 1,
      
-        "show_banner_1":false,
-        "Url_banner_1":"www.google.com",
+        "show_banner_1":true,
+        "Url_banner_1":"https://giftcardway.com/",
         "Image_banner_1":"",
-        "Title_banner_1":"Super Nettoyeur",
+        "Title_banner_1":"FREE CREDIT TO SHOP",
       
         "show_banner_2": true,
          "Url_banner_2":"https://beacons.ai/ross.store",
         "Image_banner_2":"",
-        "Title_banner_2":"CLICK HERE"
+        "Title_banner_2":"SHOP NOW"
     
         
 
@@ -86,9 +86,9 @@
 		"extraButton2Active": false,
 		"extraButton2Title": "Extra 2",
 		"extraButton2Url": "https://www",
-		"enterButtonText": "SHOP NOW",
+		"enterButtonText": "-",
 		"webview": {
-			"active": true,
+			"active": false,
 			"url": "https://www.rossstores.com/",
 			
 			
