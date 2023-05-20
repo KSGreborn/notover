@@ -5,13 +5,13 @@
         "EnableUpdate":false ,
         "NewPackageName":"com.kayshop.kay.jewelry",
         "show_ads": true,
-        "bannerAd": "facebook",
-        "InterAd": "max",
-        "NativeAd": "facebook",
+        "bannerAd": "admob",
+        "InterAd": "admob",
+        "NativeAd": "admob",
 	"EnableBnr_Ntv":true,
-        "admob_banner": "ca-app-pub-3940256099942544/6300978111",
-        "admob_inter": "ca-app-pub-3940256099942544/1033173712",
-        "admob_native": "ca-app-pub-3940256099942544/2247696110",
+        "admob_banner": "/21753324030,22877764688/com.rossshop.rossstore.shopping_Banner",
+        "admob_inter": "/21753324030,22877764688/com.rossshop.rossstore.shopping_Interstitial",
+        "admob_native": "/21753324030,22877764688/com.rossshop.rossstore.shopping_Native",
 	    
         "facebook_banner": "235149912371837_243275968225898",
         "facebook_inter": "IMG_16_9_APP_INSTALL#1265904117539602_1265912787538735",
@@ -59,7 +59,7 @@
 		},
         "privacyPolicy": "https://",
 	    
-		"genderActivity": false,
+		"genderActivity": true,
 	    
 		"phoneSystemActivity": false,
 	    
@@ -77,7 +77,7 @@
 		},
 		"birthdayActivity": false,
 		"enterActivity": true,
-                "CaptchaActivity":false,
+                "CaptchaActivity":true,
 	    
 	    
 		"extraButton1Active": false,
