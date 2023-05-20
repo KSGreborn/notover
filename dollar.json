@@ -34,7 +34,7 @@
 	    "unityBanner":"Banner_Android",
 		"unityInter":"Interstitial_Android",
 
-        "intersitial_click_activites": 2,
+        "intersitial_click_activites": 1,
      
         "show_banner_1":false,
         "Url_banner_1":"www.google.com",
@@ -62,7 +62,7 @@
 	    
         "privacyPolicy": "https://",
 	    
-		"genderActivity": true,
+		"genderActivity": false,
 	    
 		"phoneSystemActivity": false,
 	    
@@ -80,7 +80,7 @@
 		},
 		"birthdayActivity": false,
 		"enterActivity": true,
-                "CaptchaActivity":true,
+                "CaptchaActivity":false,
 	    
 	    
 		"extraButton1Active": false,
