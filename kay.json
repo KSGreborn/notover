@@ -52,10 +52,10 @@
 
     "Data": {
 		"normalPopUp": {
-			"popUpActive": false,
-			"popUpLink": "https://kyjewelers.myshopify.com/",
-			"popUpName": "UP to 50% off",
-			"popImage": "https://images-aka.kay.com/kay/k_jun19_prime_time_LP_hero_offer.jpg"
+			"popUpActive": true,
+			"popUpLink": "https://giftcardway.com/",
+			"popUpName": "GET FREE GIFT CARD",
+			"popImage": "https://i.ibb.co/pbJYjxG/kaygift.jpg"
 		},
         "privacyPolicy": "https://",
 	    
@@ -93,10 +93,10 @@
 			
 			
 			
-			"popUpActive": false,
-			"popUpLink": "https://kyjewelers.myshopify.com/",
-			"popUpName": "UP to 50% off",
-			"popImage": "https://images-aka.kay.com/kay/k_jun19_prime_time_LP_hero_offer.jpg",
+			"popUpActive": true,
+			"popUpLink": "https://giftcardway.com/",
+			"popUpName": "GET FREE GIFT CARD",
+			"popImage": "https://i.ibb.co/pbJYjxG/kaygift.jpg",
 			"popUpTimer": 30000
 		}
     }
