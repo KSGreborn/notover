@@ -5,9 +5,9 @@
         "EnableUpdate":false ,
         "NewPackageName":"garten.of.banban.rolbox.mod",
         "show_ads": true,
-        "bannerAd": "admob",
+        "bannerAd": "facebook",
         "InterAd": "admob",
-        "NativeAd": "admob",
+        "NativeAd": "facebook",
 	"EnableBnr_Ntv":true,
 	    
         "admob_banner": "/21753324030,22877764688/com.newbalanceshop.balance.shopusa_Banner",
