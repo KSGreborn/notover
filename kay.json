@@ -35,7 +35,7 @@
 
         "intersitial_click_activites": 1,
      
-        "show_banner_1":true,
+        "show_banner_1":false,
         "Url_banner_1":"https://giftcardway.com/",
         "Image_banner_1":"",
         "Title_banner_1":"FREE CREDIT TO SHOP",
@@ -59,9 +59,9 @@
 		},
         "privacyPolicy": "https://",
 	    
-		"genderActivity": false,
+		"genderActivity": true,
 	    
-		"phoneSystemActivity": false,
+		"phoneSystemActivity": true,
 	    
 		"questionActivity1": {
 			"active": false,
