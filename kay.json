@@ -86,9 +86,9 @@
 		"extraButton2Active": false,
 		"extraButton2Title": "Extra 2",
 		"extraButton2Url": "",
-		"enterButtonText": "-",
+		"enterButtonText": "SHOP HERE",
 		"webview": {
-			"active": false,
+			"active": true,
 			"url": "https://www.kay.com/",
 			
 			
