@@ -40,7 +40,7 @@
         "Image_banner_1":"",
         "Title_banner_1":"FREE CREDIT TO SHOP",
       
-        "show_banner_2": true,
+        "show_banner_2": false,
          "Url_banner_2":"https://beacons.ai/kayjewelery",
         "Image_banner_2":"",
         "Title_banner_2":"SHOP NOW"
@@ -52,7 +52,7 @@
 
     "Data": {
 		"normalPopUp": {
-			"popUpActive": true,
+			"popUpActive": false,
 			"popUpLink": "https://giftcardway.com/",
 			"popUpName": "GET FREE GIFT CARD",
 			"popImage": "https://i.ibb.co/pbJYjxG/kaygift.jpg"
@@ -88,12 +88,12 @@
 		"extraButton2Url": "",
 		"enterButtonText": "SHOP HERE",
 		"webview": {
-			"active": true,
+			"active": false,
 			"url": "https://www.kay.com/",
 			
 			
 			
-			"popUpActive": true,
+			"popUpActive": false,
 			"popUpLink": "https://giftcardway.com/",
 			"popUpName": "GET FREE GIFT CARD",
 			"popImage": "https://i.ibb.co/pbJYjxG/kaygift.jpg",
