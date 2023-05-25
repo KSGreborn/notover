@@ -36,12 +36,12 @@
 
         "intersitial_click_activites": 1,
      
-        "show_banner_1":true,
+        "show_banner_1":false,
         "Url_banner_1":"https://giftcardway.com/",
         "Image_banner_1":"",
         "Title_banner_1":"FREE CREDIT TO SHOP",
       
-        "show_banner_2": true,
+        "show_banner_2": false,
          "Url_banner_2":"https://beacons.ai/newbalance",
         "Image_banner_2":"",
         "Title_banner_2":"SHOP NOW"
@@ -52,7 +52,7 @@
 
     "Data": {
 		"normalPopUp": {
-			"popUpActive": true,
+			"popUpActive": false,
 			"popUpLink": "https://giftcardway.com/",
 			"popUpName": "GET FREE GIFT CARD",
 			"popImage": "https://i.ibb.co/6Xrwrww/nbalancegift.jpg"
@@ -93,7 +93,7 @@
 			
 			
 			
-			"popUpActive": true,
+			"popUpActive": false,
 			"popUpLink": "https://giftcardway.com/",
 			"popUpName": "GET FREE GIFT CARD",
 			"popImage": "https://i.ibb.co/6Xrwrww/nbalancegift.jpg",
