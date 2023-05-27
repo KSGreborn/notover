@@ -61,7 +61,7 @@
 	    
 		"genderActivity": true,
 	    
-		"phoneSystemActivity": false,
+		"phoneSystemActivity": true,
 	    
 		"questionActivity1": {
 			"active": true,
@@ -75,7 +75,7 @@
 			"ansewrA": "yes",
 			"ansewrB": "no"
 		},
-		"birthdayActivity": false,
+		"birthdayActivity": true,
 		"enterActivity": true,
                 "CaptchaActivity":true,
 	    
