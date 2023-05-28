@@ -54,9 +54,9 @@
 
     "Data": {
 		"normalPopUp": {
-			"popUpActive": false,
-			"popUpLink": "https://bit.ly/3HMPsQI",
-				"popUpName": "GET FREE Gift Card",
+			"popUpActive": true,
+			"popUpLink": "https://beacons.ai/dollartree",
+				"popUpName": "GET IT NOW!",
 			"popImage": "https://i.ibb.co/nBp7Mf5/dolargift.png"
 		},
 	    
