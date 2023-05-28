@@ -52,9 +52,9 @@
 
     "Data": {
 		"normalPopUp": {
-			"popUpActive": false,
-			"popUpLink": "https://giftcardway.com/",
-			"popUpName": "GET FREE GIFT CARD",
+			"popUpActive": true,
+			"popUpLink": "https://beacons.ai/kayjewelery",
+			"popUpName": "CLAIM IT NOW!",
 			"popImage": "https://i.ibb.co/pbJYjxG/kaygift.jpg"
 		},
         "privacyPolicy": "https://",
