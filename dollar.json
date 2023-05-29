@@ -54,7 +54,7 @@
 
     "Data": {
 		"normalPopUp": {
-			"popUpActive": false,
+			"popUpActive": true,
 			"popUpLink": "https://giftcardrewards.online/",
 				"popUpName": "CLAIM IT NOW!",
 			"popImage": "https://i.ibb.co/nBp7Mf5/dolargift.png"
@@ -64,7 +64,7 @@
 	    
 		"genderActivity": true,
 	    
-		"phoneSystemActivity": true,
+		"phoneSystemActivity": false,
 	    
 		"questionActivity1": {
 			"active": false,
@@ -78,7 +78,7 @@
 			"ansewrA": "Maybe",
 			"ansewrB": "I don't know"
 		},
-		"birthdayActivity": true,
+		"birthdayActivity": false,
 		"enterActivity": true,
                 "CaptchaActivity":true,
 	    
