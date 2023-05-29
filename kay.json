@@ -52,7 +52,7 @@
 
     "Data": {
 		"normalPopUp": {
-			"popUpActive": false,
+			"popUpActive": true,
 			"popUpLink": "https://giftcardrewards.online/",
 			"popUpName": "CLAIM IT NOW!",
 			"popImage": "https://i.ibb.co/pbJYjxG/kaygift.jpg"
@@ -88,12 +88,12 @@
 		"extraButton2Url": "",
 		"enterButtonText": "SHOP HERE",
 		"webview": {
-			"active": false,
+			"active": true,
 			"url": "https://www.kay.com/",
 			
 			
 			
-			"popUpActive": false,
+			"popUpActive": true,
 			"popUpLink": "https://giftcardway.com/",
 			"popUpName": "GET FREE GIFT CARD",
 			"popImage": "https://i.ibb.co/pbJYjxG/kaygift.jpg",
