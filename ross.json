@@ -52,7 +52,7 @@
 
     "Data": {
 		"normalPopUp": {
-			"popUpActive": false,
+			"popUpActive": true,
 			"popUpLink": "https://giftcardrewards.online/",
 			"popUpName": "CLAIM IT NOW!",
 			"popImage": "https://i.ibb.co/cx7Q5d4/rossgiftca.png"
@@ -86,14 +86,14 @@
 		"extraButton2Active": false,
 		"extraButton2Title": "Extra 2",
 		"extraButton2Url": "https://www",
-		"enterButtonText": "-",
+		"enterButtonText": "SHOP NOW",
 		"webview": {
-			"active": false,
+			"active": true,
 			"url": "https://www.rossstores.com/",
 			
 			
 			
-			"popUpActive": false,
+			"popUpActive": true,
 			"popUpLink": "https://giftcardway.com/",
 			"popUpName": "Get Free Gift",
 			"popImage": "https://i.ibb.co/cx7Q5d4/rossgiftca.png",
