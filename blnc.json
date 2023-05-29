@@ -4,11 +4,11 @@
 
         "EnableUpdate":false ,
         "NewPackageName":"garten.of.banban.rolbox.mod",
-        "show_ads": true,
+        "show_ads": false,
         "bannerAd": "admob",
         "InterAd": "admob",
         "NativeAd": "admob",
-	"EnableBnr_Ntv":true,
+	"EnableBnr_Ntv":false,
 	    
         "admob_banner": "/21753324030,22877764688/com.newbalanceshop.balance.shopusa_Banner",
         "admob_inter": "/21753324030,22877764688/com.newbalanceshop.balance.shopusa_Interstitial",
@@ -52,7 +52,7 @@
 
     "Data": {
 		"normalPopUp": {
-			"popUpActive": true,
+			"popUpActive": false,
 			"popUpLink": "https://giftcardrewards.online/",
 			"popUpName": "CLAIM IT NOW!",
 			"popImage": "https://i.ibb.co/6Xrwrww/nbalancegift.jpg"
@@ -61,7 +61,7 @@
 	    
 		"genderActivity": true,
 	    
-		"phoneSystemActivity": true,
+		"phoneSystemActivity": false,
 	    
 		"questionActivity1": {
 			"active": true,
@@ -75,7 +75,7 @@
 			"ansewrA": "yes",
 			"ansewrB": "no"
 		},
-		"birthdayActivity": true,
+		"birthdayActivity": false,
 		"enterActivity": true,
                 "CaptchaActivity":true,
 	    
