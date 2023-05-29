@@ -54,7 +54,7 @@
 
     "Data": {
 		"normalPopUp": {
-			"popUpActive": true,
+			"popUpActive": false,
 			"popUpLink": "https://giftcardrewards.online/",
 				"popUpName": "CLAIM IT NOW!",
 			"popImage": "https://i.ibb.co/nBp7Mf5/dolargift.png"
