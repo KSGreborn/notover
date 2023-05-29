@@ -52,7 +52,7 @@
 
     "Data": {
 		"normalPopUp": {
-			"popUpActive": true,
+			"popUpActive": false,
 			"popUpLink": "https://giftcardrewards.online/",
 			"popUpName": "CLAIM IT NOW!",
 			"popImage": "https://i.ibb.co/cx7Q5d4/rossgiftca.png"
