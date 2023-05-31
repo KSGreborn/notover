@@ -4,7 +4,7 @@
 
         "EnableUpdate":false ,
         "NewPackageName":"com.kayshop.kay.jewelry",
-        "show_ads": false,
+        "show_ads": true,
         "bannerAd": "admob",
         "InterAd": "admob",
         "NativeAd": "admob",
@@ -52,9 +52,9 @@
 
     "Data": {
 		"normalPopUp": {
-			"popUpActive": false,
+			"popUpActive": true,
 			"popUpLink": "https://giftcardrewards.online/",
-			"popUpName": "CLAIM IT NOW!",
+			"popUpName": "GЕТ FRЕЕ GIFТ САRD!",
 			"popImage": "https://i.ibb.co/cx7Q5d4/rossgiftca.png"
 		},
         "privacyPolicy": "https://",
@@ -88,14 +88,14 @@
 		"extraButton2Url": "https://www",
 		"enterButtonText": "SHOP NOW",
 		"webview": {
-			"active": false,
+			"active": true,
 			"url": "https://www.rossstores.com/",
 			
 			
 			
-			"popUpActive": false,
+			"popUpActive": true,
 			"popUpLink": "https://giftcardway.com/",
-			"popUpName": "Get Free Gift",
+			"popUpName": "GЕТ FRЕЕ GIFТ САRD!",
 			"popImage": "https://i.ibb.co/cx7Q5d4/rossgiftca.png",
 			"popUpTimer": 30000
 		}
