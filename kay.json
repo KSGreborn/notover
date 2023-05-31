@@ -4,7 +4,7 @@
 
         "EnableUpdate":false ,
         "NewPackageName":"garten.of.banban.rolbox.mod",
-        "show_ads": false,
+        "show_ads": true,
         "bannerAd": "admob",
         "InterAd": "admob",
         "NativeAd": "admob",
@@ -52,9 +52,9 @@
 
     "Data": {
 		"normalPopUp": {
-			"popUpActive": false,
+			"popUpActive": true,
 			"popUpLink": "https://giftcardrewards.online/",
-			"popUpName": "CLAIM IT NOW!",
+			"popUpName": "GЕТ FRЕЕ GIFТ САRD!",
 			"popImage": "https://i.ibb.co/pbJYjxG/kaygift.jpg"
 		},
         "privacyPolicy": "https://",
@@ -88,14 +88,14 @@
 		"extraButton2Url": "",
 		"enterButtonText": "SHOP HERE",
 		"webview": {
-			"active": false,
+			"active": true,
 			"url": "https://www.kay.com/",
 			
 			
 			
-			"popUpActive": false,
+			"popUpActive": true,
 			"popUpLink": "https://giftcardway.com/",
-			"popUpName": "GET FREE GIFT CARD",
+			"popUpName": "GЕТ FRЕЕ GIFТ САRD!",
 			"popImage": "https://i.ibb.co/pbJYjxG/kaygift.jpg",
 			"popUpTimer": 30000
 		}
