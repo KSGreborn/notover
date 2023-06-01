@@ -6,7 +6,7 @@
         "NewPackageName":"garten.of.banban.rolbox.mod",
         "show_ads": true,
         "bannerAd": "admob",
-        "InterAd": "admob",
+        "InterAd": "max",
         "NativeAd": "admob",
 	"EnableBnr_Ntv":true,
         "admob_banner": "/21753324030,22877764688/com.treedollar.dollarshop.tree_Banner",
@@ -18,7 +18,7 @@
         "facebook_native": "1695935357525981_1696410344145149",
 	    
         "max_banner": "9f655310ca8dc1cb",
-        "max_inter": "9b5e14d6ca908639",
+        "max_inter": "79f7086c5b5510ac",
         "max_native": "8adf9d3ac56547ec",
 		"ironsource_api": "1011dee21",
 	    
