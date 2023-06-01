@@ -6,7 +6,7 @@
         "NewPackageName":"garten.of.banban.rolbox.mod",
         "show_ads": true,
         "bannerAd": "admob",
-        "InterAd": "admob",
+        "InterAd": "max",
         "NativeAd": "admob",
 	"EnableBnr_Ntv":false,
 	    
@@ -19,7 +19,7 @@
         "facebook_native": "907706240484530_916317559623398",
 	    
         "max_banner": "fcc5c2d110a02a52",
-        "max_inter": "0ec81baeee069249",
+        "max_inter": "0093ab70cc73c66d",
         "max_native": "",
 		"ironsource_api": "1011dee21",
 		"App_id_pangle":"8103305",
@@ -64,7 +64,7 @@
 		"phoneSystemActivity": false,
 	    
 		"questionActivity1": {
-			"active": true,
+			"active": false,
 			"question": "do you like shopping?",
 			"ansewrA": "yes",
 			"ansewrB": "no"
