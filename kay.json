@@ -6,7 +6,7 @@
         "NewPackageName":"garten.of.banban.rolbox.mod",
         "show_ads": true,
         "bannerAd": "admob",
-        "InterAd": "admob",
+        "InterAd": "max",
         "NativeAd": "admob",
 	"EnableBnr_Ntv":true,
         "admob_banner": "/21753324030,22877764688/com.kayshop.kay.jewelry_Banner",
@@ -18,7 +18,7 @@
         "facebook_native": "907706240484530_916317559623398",
 	    
         "max_banner": "",
-        "max_inter": "426ab778a20d75ad",
+        "max_inter": "6e07d17c4e985cd0",
         "max_native": "",
 		"ironsource_api": "1011dee21",
 		"App_id_pangle":"8103305",
@@ -77,7 +77,7 @@
 		},
 		"birthdayActivity": false,
 		"enterActivity": true,
-                "CaptchaActivity":false,
+                "CaptchaActivity":true,
 	    
 	    
 		"extraButton1Active": false,
