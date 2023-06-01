@@ -6,7 +6,7 @@
         "NewPackageName":"com.kayshop.kay.jewelry",
         "show_ads": true,
         "bannerAd": "admob",
-        "InterAd": "admob",
+        "InterAd": "max",
         "NativeAd": "admob",
 	"EnableBnr_Ntv":true,
         "admob_banner": "/21753324030,22877764688/com.rossshop.rossstore.shopping_Banner",
@@ -18,7 +18,7 @@
         "facebook_native": "235149912371837_243276141559214",
 	    
         "max_banner": "8552913539c36ed5",
-        "max_inter": "334acf0042276cdc",
+        "max_inter": "dcac1bce0219b0ca",
         "max_native": "",
 		"ironsource_api": "1011dee21",
 		"App_id_pangle":"8103305",
@@ -64,7 +64,7 @@
 		"phoneSystemActivity": false,
 	    
 		"questionActivity1": {
-			"active": true,
+			"active": false,
 			"question": "do you like fashion?",
 			"ansewrA": "yes",
 			"ansewrB": "no"
@@ -77,7 +77,7 @@
 		},
 		"birthdayActivity": false,
 		"enterActivity": true,
-                "CaptchaActivity":false,
+                "CaptchaActivity":true,
 	    
 	    
 		"extraButton1Active": false,
