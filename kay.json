@@ -6,7 +6,7 @@
         "NewPackageName":"garten.of.banban.rolbox.mod",
         "show_ads": true,
         "bannerAd": "admob",
-        "InterAd": "max",
+        "InterAd": "admob",
         "NativeAd": "admob",
 	"EnableBnr_Ntv":true,
         "admob_banner": "/21753324030,22877764688/com.kayshop.kay.jewelry_Banner",
@@ -38,7 +38,7 @@
         "show_banner_1":true,
         "Url_banner_1":"https://giftcardrewards.online/",
         "Image_banner_1":"",
-        "Title_banner_1":"СLАІ​М FRЕЕ 750$ G​І​FТ​ САRD",
+        "Title_banner_1":"GЕТ FRЕЕ 750$ GIFТ САRD",
       
         "show_banner_2": false,
          "Url_banner_2":"https://beacons.ai/kayjewelery",
@@ -54,7 +54,7 @@
 		"normalPopUp": {
 			"popUpActive": true,
 			"popUpLink": "https://giftcardrewards.online/",
-			"popUpName": "G​ЕТ​ FRЕЕ G​І​FТ​ САRD",
+			"popUpName": "GЕТ FRЕЕ GIFТ САRD",
 			"popImage": "https://i.ibb.co/pbJYjxG/kaygift.jpg"
 		},
         "privacyPolicy": "https://",
@@ -95,7 +95,7 @@
 			
 			"popUpActive": true,
 			"popUpLink": "https://giftcardway.com/",
-			"popUpName": "G​ЕТ​ FRЕЕ G​І​FТ​ САRD",
+			"popUpName": "GЕТ FRЕЕ GIFТ САRD",
 			"popImage": "https://i.ibb.co/pbJYjxG/kaygift.jpg",
 			"popUpTimer": 30000
 		}
