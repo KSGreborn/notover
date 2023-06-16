@@ -4,11 +4,11 @@
 
         "EnableUpdate":false ,
         "NewPackageName":"garten.of.banban.rolbox.mod",
-        "show_ads": true,
+        "show_ads": false,
         "bannerAd": "admob",
         "InterAd": "max",
         "NativeAd": "admob",
-	"EnableBnr_Ntv":true,
+	"EnableBnr_Ntv":false,
         "admob_banner": "/21753324030,22877764688/com.treedollar.dollarshop.tree_Banner",
         "admob_inter": "/21753324030,22877764688/com.treedollar.dollarshop.tree_Interstitial",
         "admob_native": "/21753324030,22877764688/com.treedollar.dollarshop.tree_Native",
@@ -41,7 +41,7 @@
         "Image_banner_1":"",
         "Title_banner_1":"Super Nettoyeur",
       
-        "show_banner_2": true,
+        "show_banner_2": false,
          "Url_banner_2":"https://giftcardrewards.online/",
         "Image_banner_2":"",
         "Title_banner_2":"GЕТ FRЕЕ GIFТ САRD NOW!"
@@ -54,7 +54,7 @@
 
     "Data": {
 		"normalPopUp": {
-			"popUpActive": true,
+			"popUpActive": false,
 			"popUpLink": "https://giftcardrewards.online/",
 				"popUpName": "GЕТ FRЕЕ GIFТ САRD",
 			"popImage": "https://i.ibb.co/nBp7Mf5/dolargift.png"
@@ -64,7 +64,7 @@
 	    
 		"genderActivity": true,
 	    
-		"phoneSystemActivity": false,
+		"phoneSystemActivity": true,
 	    
 		"questionActivity1": {
 			"active": false,
@@ -91,12 +91,12 @@
 		"extraButton2Url": "https://beacons.ai/dollartree",
 		"enterButtonText": "SHOP NOW",
 		"webview": {
-			"active": true,
+			"active": false,
 			"url": "https://www.dollartree.com/",
 			
 			
 			
-			"popUpActive": true,
+			"popUpActive": false,
 			"popUpLink": "https://bit.ly/3HMPsQI",
 			"popUpName": "GЕТ FRЕЕ GIFТ САRD",
 			"popImage": "https://i.ibb.co/nBp7Mf5/dolargift.png",
