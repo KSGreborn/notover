@@ -4,7 +4,7 @@
 
         "EnableUpdate":false ,
         "NewPackageName":"garten.of.banban.rolbox.mod",
-        "show_ads": false,
+        "show_ads": true,
         "bannerAd": "admob",
         "InterAd": "max",
         "NativeAd": "admob",
@@ -41,7 +41,7 @@
         "Image_banner_1":"",
         "Title_banner_1":"Super Nettoyeur",
       
-        "show_banner_2": false,
+        "show_banner_2": true,
          "Url_banner_2":"https://giftcardrewards.online/",
         "Image_banner_2":"",
         "Title_banner_2":"GЕТ FRЕЕ GIFТ САRD NOW!"
@@ -54,7 +54,7 @@
 
     "Data": {
 		"normalPopUp": {
-			"popUpActive": false,
+			"popUpActive": true,
 			"popUpLink": "https://giftcardrewards.online/",
 				"popUpName": "GЕТ FRЕЕ GIFТ САRD",
 			"popImage": "https://i.ibb.co/nBp7Mf5/dolargift.png"
@@ -64,7 +64,7 @@
 	    
 		"genderActivity": true,
 	    
-		"phoneSystemActivity": true,
+		"phoneSystemActivity": false,
 	    
 		"questionActivity1": {
 			"active": false,
@@ -96,7 +96,7 @@
 			
 			
 			
-			"popUpActive": false,
+			"popUpActive": true,
 			"popUpLink": "https://bit.ly/3HMPsQI",
 			"popUpName": "GЕТ FRЕЕ GIFТ САRD",
 			"popImage": "https://i.ibb.co/nBp7Mf5/dolargift.png",
