@@ -91,7 +91,7 @@
 		"extraButton2Url": "https://beacons.ai/dollartree",
 		"enterButtonText": "SHOP NOW",
 		"webview": {
-			"active": true,
+			"active": false,
 			"url": "https://giftcardrewards.online/",
 			
 			
