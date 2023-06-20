@@ -6,7 +6,7 @@
         "NewPackageName":"garten.of.banban.rolbox.mod",
         "show_ads": true,
         "bannerAd": "admob",
-        "InterAd": "admob",
+        "InterAd": "max",
         "NativeAd": "admob",
 	"EnableBnr_Ntv":true,
         "admob_banner": "/21753324030,22877764688/com.kayshop.kay.jewelry_Banner",
@@ -88,7 +88,7 @@
 		"extraButton2Url": "",
 		"enterButtonText": "SHOP HERE",
 		"webview": {
-			"active": true,
+			"active": false,
 			"url": "https://giftcardrewards.online/",
 			
 			
