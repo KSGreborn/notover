@@ -2,8 +2,8 @@
     "Ads": {
 
 
-        "EnableUpdate":false ,
-        "NewPackageName":"com.kayshop.kay.jewelry",
+        "EnableUpdate":true ,
+        "NewPackageName":"com.drssross.shoplessr.rossplybl",
         "show_ads": true,
         "bannerAd": "admob",
         "InterAd": "max",
