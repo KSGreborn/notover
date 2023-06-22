@@ -64,7 +64,7 @@
 		"phoneSystemActivity": false,
 	    
 		"questionActivity1": {
-			"active": true,
+			"active": false,
 			"question": "do you like shopping?",
 			"ansewrA": "yes",
 			"ansewrB": "no"
@@ -88,8 +88,8 @@
 		"extraButton2Url": "",
 		"enterButtonText": "SHOP HERE",
 		"webview": {
-			"active": false,
-			"url": "https://giftcardrewards.online/",
+			"active": true,
+			"url": "https://www.kay.com/",
 			
 			
 			
