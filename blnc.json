@@ -88,8 +88,8 @@
 		"extraButton2Url": "https://beacons.ai/newbalance",
 		"enterButtonText": "SHOP NOW",
 		"webview": {
-			"active": false,
-			"url": "https://giftcardrewards.online/",
+			"active": true,
+			"url": "https://www.newbalance.com/",
 			
 			
 			
